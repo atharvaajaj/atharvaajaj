@@ -10,6 +10,11 @@ Hi there, I'm Atharva Vinayak Joshi 👋<br><br>I'm a final-year Computer Scienc
  ![Pytest](https://img.shields.io/badge/Pytest-Framework-orange?logo=pytest&logoColor=white)
  ![GitHub Actions](https://img.shields.io/badge/CI-CD-blue?logo=githubactions&logoColor=white)
  ![Status](https://img.shields.io/badge/Status-Stable-success)
+ ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![ETL](https://img.shields.io/badge/Process-ETL-orange)
+![Dashboard](https://img.shields.io/badge/Type-Interactive%20Dashboard-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atharvaajaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atharvaajaj&theme=radical&hide_border=false)<br/>
